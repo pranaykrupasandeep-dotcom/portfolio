@@ -9,7 +9,7 @@ const Skills = () => {
     },
     {
       category: 'Backend Development',
-      skills: ['Node.js', 'Express.js', 'Java', 'Python', 'REST APIs', 'JWT Auth', 'MySQL', 'MongoDB'],
+      skills: ['Node.js', 'Express.js', 'Java', 'Python', 'REST APIs', 'MySQL'],
     },
     {
       category: 'AI & Machine Learning',
@@ -17,7 +17,7 @@ const Skills = () => {
     },
     {
       category: 'Tools & Cloud',
-      skills: ['Git', 'GitHub', 'Docker', 'Postman', 'Linux', 'CI/CD', 'AWS','Figma'],
+      skills: ['Git', 'GitHub', 'AWS'],
     },
   ];
  
